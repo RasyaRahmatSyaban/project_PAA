@@ -1,0 +1,8 @@
+n = 100, Worst Case = 0.000003s, Average Case = 0.000001s
+n = 150, Worst Case = 0.000001s, Average Case = 0.000001s
+n = 200, Worst Case = 0.000001s, Average Case = 0.000001s
+n = 250, Worst Case = 0.000001s, Average Case = 0.000001s
+n = 300, Worst Case = 0.000001s, Average Case = 0.000001s
+n = 350, Worst Case = 0.000001s, Average Case = 0.000001s
+n = 400, Worst Case = 0.000001s, Average Case = 0.000001s
+n = 500, Worst Case = 0.000001s, Average Case = 0.000001s
